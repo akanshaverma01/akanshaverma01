@@ -1,4 +1,4 @@
-# Hi, I'm [Akansha]
+# Hi, I'm Akansha
 
 🎓 MCA Student  
 📈 Data Analyst Aspirant  
