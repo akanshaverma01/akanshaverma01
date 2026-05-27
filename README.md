@@ -38,7 +38,7 @@ I'm a data science enthusiast who enjoys turning raw data into meaningful insigh
 
 ## 📊 GitHub Stats
 
-![Akansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default)
+![Akansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanshaverma01&show_icons=true&hide_border=true&theme=default)
 
 ---
 
