@@ -29,7 +29,7 @@ I'm a data science enthusiast who enjoys turning raw data into meaningful insigh
 | Project | Description | Stack |
 |---|---|---|
 | [World Happiness Score Prediction](https://huggingface.co/spaces/akansha22/World_happiness_Score_Predictor) | Predicts country happiness scores using six socioeconomic factors from the World Happiness Report (2015–2023) | Python, scikit-learn, Streamlit |
-| [India Job Market Analysis]https://github.com/akanshaverma01/India-job-market-analysis-Full-Stack-Data-Analysis-Project | End-to-end analysis of 19,000+ Data Science job postings from Naukri.com with SQL, Python, and Power BI | Python, Pandas,SQL, Power BI |
+| [India Job Market Analysis](https://github.com/akanshaverma01/India-job-market-analysis-Full-Stack-Data-Analysis-Project) | End-to-end analysis of 19,000+ Data Science job postings from Naukri.com with SQL, Python, and Power BI | Python, Pandas,SQL, Power BI |
 | [LayoffLens](https://huggingface.co/spaces/akansha22/Tech_layoff_severity_predictor)) | Predicts tech layoff severity (Low/Medium/High) using XGBoost and SHAP, deployed on Hugging Face Spaces. | Streamlit, Mcahine Learning , Streamlit, Hugging Face Space |
 
 
