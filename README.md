@@ -38,7 +38,7 @@ I'm a data science enthusiast who enjoys turning raw data into meaningful insigh
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/akansha-verma-1363a2274
-- Email: akanshasinghakuu@gmail.com *(optional)*
+- Email: akanshasinghakuu@gmail.com 
 
 ---
 
