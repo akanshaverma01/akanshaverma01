@@ -1,6 +1,6 @@
 # Hi, I'm Akansha 👋
 
-I'm a data science enthusiast who enjoys turning raw data into meaningful insights. My work spans machine learning, natural language processing, exploratory data analysis, and building end-to-end data pipelines and dashboards.
+Aspiring Data Analyst and ML enthusiast with 6 months of industry experience, currently pursuing MCA (2027). Skilled in Python, SQL, and Power BI, with hands-on project experience across the full data pipeline — from cleaning and EDA to predictive modeling and deployed dashboards. Passionate about turning raw data into decisions.
 
 ---
 
