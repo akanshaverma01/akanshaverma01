@@ -39,7 +39,7 @@ Aspiring Data Analyst and ML enthusiast with 6 months of industry experience, cu
 
 - LinkedIn: www.linkedin.com/in/akansha-verma-1363a2274
 - Email: akanshasinghakuu@gmail.com
-- Portfolio Website: 
+- Portfolio Website: https://akanshaverma01.github.io/My-Portfolio-Website/
 
 ---
 
