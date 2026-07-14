@@ -54,7 +54,16 @@ Deployed an interactive Streamlit dashboard predicting happiness scores from 201
 ---
 
 ## 📈 Analytical Skills
-Exploratory Data Analysis (EDA) · Statistical Analysis · Feature Engineering · Hypothesis Testing · Data Cleaning & Wrangling · A/B Testing · Data Storytelling · Predictive Modeling · Model Evaluation (R², MAE, RMSE) · KPI & Dashboard Reporting
+Exploratory Data Analysis (EDA)
+· Statistical Analysis
+· Feature Engineering 
+· Hypothesis Testing 
+· Data Cleaning & Wrangling 
+· A/B Testing 
+· Data Storytelling 
+· Predictive Modeling 
+· Model Evaluation (R², MAE, RMSE) 
+· KPI & Dashboard Reporting
 
 ---
 
