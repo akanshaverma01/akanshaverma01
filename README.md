@@ -10,7 +10,7 @@ I work end-to-end: SQL for extraction, Python for analysis and modeling, Power B
 
 **Languages:** Python, SQL
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Excel
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, MS Excel, Google Sheet
 
 **BI & Visualization:** Power BI
 
@@ -54,16 +54,14 @@ Deployed an interactive Streamlit dashboard predicting happiness scores from 201
 ---
 
 ## 📈 Analytical Skills
-Exploratory Data Analysis (EDA)
-· Statistical Analysis
-· Feature Engineering 
-· Hypothesis Testing 
-· Data Cleaning & Wrangling 
-· A/B Testing 
-· Data Storytelling 
-· Predictive Modeling 
-· Model Evaluation (R², MAE, RMSE) 
-· KPI & Dashboard Reporting
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Feature Engineering
+- A/B Testing
+- Data Storytelling
+- Predictive Modeling
+- Model Evaluation (R², MAE, RMSE)
+- KPI & Dashboard Reporting
 
 ---
 
@@ -80,5 +78,7 @@ I'm actively looking for Data Analyst / Data Science opportunities and open to i
 - **LinkedIn:** [linkedin.com/in/akansha-verma-1363a2274](https://www.linkedin.com/in/akansha-verma-1363a2274)
 - **Portfolio:** [akanshaverma01.github.io/My-Portfolio-Website](https://akanshaverma01.github.io/My-Portfolio-Website/)
 - **Hugging Face:** [huggingface.co/akansha22](https://huggingface.co/akansha22)
+
+
 
 
