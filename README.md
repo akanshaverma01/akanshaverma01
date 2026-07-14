@@ -10,7 +10,7 @@ I work end-to-end: SQL for extraction, Python for analysis and modeling, Power B
 
 **Languages:** Python, SQL
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Excel
 
 **BI & Visualization:** Power BI
 
