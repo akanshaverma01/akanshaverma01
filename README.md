@@ -1,46 +1,68 @@
-# Hi, I'm Akansha 👋
+# Hi, I'm Akansha Verma 👋
 
-Aspiring Data Analyst and ML enthusiast with 6 months of industry experience, currently pursuing MCA (2027). Skilled in Python, SQL, and Power BI, with hands-on project experience across the full data pipeline — from cleaning and EDA to predictive modeling and deployed dashboards. Passionate about turning raw data into decisions.
+**Data Analyst** specializing in turning raw data into decision-ready insights — from cleaning and EDA to predictive modeling and dashboard deployment.
 
----
-
-## 🔍 What I Work On
-
-- **Machine Learning** — building and evaluating predictive models (classification, regression, clustering)
-- **Natural Language Processing** — text preprocessing, sentiment analysis, and language modeling
-- **Exploratory Data Analysis** — uncovering patterns and communicating findings clearly
-- **Dashboards & Visualization** — translating data into interactive, decision-ready visuals
-- **Full-Stack Data Projects** — end-to-end workflows from raw data ingestion to deployed output
+I work end-to-end: SQL for extraction, Python for analysis and modeling, Power BI for storytelling. My focus is on projects that mirror real business questions — pricing, hiring trends, health risk factors — not just notebook exercises.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-**Languages:** Python, SQL  
-**ML/NLP:** scikit-learn, XGBoost, NLTK, spaCy,  
-**Data & EDA:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Dashboards:** Power BI  
-**Other:** Jupyter Notebooks, Git, Streamlit , Hugging Face Space, Github
+**Languages:** Python, SQL
+
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+
+**BI & Visualization:** Power BI
+
+**Machine Learning:** Scikit-learn, XGBoost, SHAP
+
+**Tools & Deployment:** Jupyter, Git/GitHub, Streamlit, Hugging Face Spaces
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [World Happiness Score Prediction](https://huggingface.co/spaces/akansha22/World_happiness_Score_Predictor) | Predicts country happiness scores using six socioeconomic factors from the World Happiness Report (2015–2023) | Python, scikit-learn, Streamlit, Machine Learning , Hugging Face Space |
-| [India Job Market Analysis](https://github.com/akanshaverma01/India-job-market-analysis-Full-Stack-Data-Analysis-Project) | End-to-end analysis of 19,000+ Data Science job postings from Naukri.com with SQL, Python, and Power BI | Python, Pandas, SQL,Jupyter NoteBook, Power BI ,Seaborn |
-| [LayoffLens](https://huggingface.co/spaces/akansha22/Tech_layoff_severity_predictor)) | Predicts tech layoff severity (Low/Medium/High) using XGBoost and SHAP, deployed on Hugging Face Spaces. | Streamlit, Mcahine Learning , Streamlit, Hugging Face Space |
+### 📊 India Job Market Analysis
+Analyzed 19,000+ Data Science job postings scraped from Naukri.com to surface hiring trends, salary bands, in-demand skills, and geographic demand concentration.
+`Python` `Pandas` `SQL` `Power BI` `Matplotlib` `Seaborn`
+🔗 GitHub: `[https://github.com/akanshaverma01/India-job-market-analysis-Full-Stack-Data-Analysis-Project]`
 
+### 🛒 Flipkart Product Price Intelligence Dashboard
+End-to-end pricing analytics on 19,922 Flipkart products tracked over 7 months. Clothing made up 31% of the catalog; Automotive carried the highest average discount (54.7%), pointing to a value-focused pricing strategy validated via DAX-based KPI measures. Quantified ~₹2 crore in total customer savings (avg. ₹1,005/product).
+`Python` `PostgreSQL` `SQL` `Power BI` `Pandas`
+🔗 GitHub: `[https://github.com/akanshaverma01/Flipkart-Product-Price-Intelligence-Dashboard]`
+
+### 🩺 Diabetes Disease Analysis Dashboard
+3-page interactive Power BI dashboard analyzing PIMA (768 patients) and WHO Global Diabetes (198 countries, 1980–2014) datasets. Patients with Glucose >140 and BMI >30 showed a 75.7% diabetes rate — the strongest combined risk predictor identified. The Eastern Mediterranean region had the highest average prevalence (9.2%), with India showing the fastest growth over the period.
+`Python` `Pandas` `SQL` `Power BI`
+🔗 GitHub: `[https://github.com/akanshaverma01/Diabetes-Disease-Analysis-Full-stack-Data-Analysis-Project]`
+
+### 🌍 World Happiness Score Prediction & Analytics Dashboard
+Deployed an interactive Streamlit dashboard predicting happiness scores from 2015–2023 World Happiness Report data. Benchmarked multiple ML models via cross-validation and R²/MAE/RMSE to select the best predictor, then applied SHAP to generate plain-English, per-prediction explanations of feature drivers.
+`Python` `Scikit-learn` `XGBoost` `Streamlit` `Hugging Face Spaces
+🔗 GitHub: `[https://github.com/akanshaverma01/-World-Happiness-Score-Prediction]` · 🚀 Live Demo: `[https://huggingface.co/spaces/akansha22/World_happiness_Score_Predictor]`
 
 ---
 
-## 📫 Connect With Me
+## 💼 Experience
 
-- LinkedIn: www.linkedin.com/in/akansha-verma-1363a2274
-- Email: akanshasinghakuu@gmail.com
-- Portfolio Website: https://akanshaverma01.github.io/My-Portfolio-Website/
+**Software Developer Intern** — Traitsoft Private Limited *(Sep 2024 – Mar 2025, On-site)*
+- Wrote and optimized SQL queries in MySQL, and cleaned/validated data prior to database writes to improve accuracy and consistency.
+- Designed database tables and relationships, implemented CRUD operations, and tested REST APIs using Postman within a Git/GitHub workflow.
 
 ---
 
-*Always learning. Always iterating.*
+## 🌱 Currently Learning
+Advanced SQL · Feature Engineering · MLOps Basics · FastAPI
+
+---
+
+## 📫 Connect
+
+I'm actively looking for Data Analyst / Data Science opportunities and open to internships, freelance projects, and collaboration. If you're hiring or just want to talk data — reach out, I usually respond within a day.
+
+- **Email:** akanshasinghakuu@gmail.com
+- **LinkedIn:** [linkedin.com/in/akansha-verma-1363a2274](https://www.linkedin.com/in/akansha-verma-1363a2274)
+- **Portfolio:** [akanshaverma01.github.io/My-Portfolio-Website](https://akanshaverma01.github.io/My-Portfolio-Website/)
+- **Hugging Face:** [huggingface.co/akansha22](https://huggingface.co/akansha22)
+
