@@ -63,10 +63,14 @@ Deployed an interactive Streamlit dashboard predicting happiness scores from 201
 - Model Evaluation (R², MAE, RMSE)
 - KPI & Dashboard Reporting
 
----
+--
 
-## 🌱 Currently Learning
-Advanced SQL · Feature Engineering · MLOps Basics · FastAPI
+
+## 💻 HackerRank
+
+I regularly practice Python and SQL on HackerRank to strengthen my problem-solving and database skills. My practice includes SQL joins, subqueries, window functions, aggregations, Python data structures, comprehensions, lambda functions, and interview-style coding challenges.
+
+🔗 HackerRank Profile: (https://www.hackerrank.com/profile/akanshavermaa)
 
 ---
 
