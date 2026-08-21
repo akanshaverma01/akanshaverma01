@@ -72,6 +72,14 @@ I regularly practice Python and SQL on HackerRank to strengthen my problem-solvi
 
 🔗 HackerRank Profile: (https://www.hackerrank.com/profile/akanshavermaa)
 
+
+## 🧩 LeetCode
+
+I regularly practice **Data Structures, Algorithms, Python, and SQL** on LeetCode to improve my logical thinking and coding interview skills. My practice includes SQL joins, subqueries, CTEs, window functions, aggregations, Python problem solving, tuples, strings, lists, dictionaries, and medium-level interview-style challenges to strengthen problem-solving and database concepts.
+
+🔗 **LeetCode Profile:** https://leetcode.com/u/Akansha010/
+
+
 ---
 
 ## 📫 Connect
