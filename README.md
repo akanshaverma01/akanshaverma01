@@ -1,8 +1,9 @@
 # Hi, I'm Akansha Verma 👋
 
-**Data Analyst** specializing in turning raw data into decision-ready insights — from cleaning and EDA to predictive modeling and dashboard deployment.
+**Software Developer & Data Analyst** building end-to-end applications and data-driven solutions with Python, SQL, FastAPI, React, Power BI, and Machine Learning.
 
-I work end-to-end: SQL for extraction, Python for analysis and modeling, Power BI for storytelling. My focus is on projects that mirror real business questions — pricing, hiring trends, health risk factors — not just notebook exercises.
+I work across the full workflow—from backend APIs and databases to data analysis, predictive modeling, dashboards, and business insights. My projects focus on solving real-world problems through software and data.
+
 
 ---
 
